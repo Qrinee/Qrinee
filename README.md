@@ -1,5 +1,5 @@
 # Witaj na moim profilu! 👋
-[![wakatime](https://wakatime.com/badge/github/Qrinee/HackHero.svg)](https://wakatime.com/badge/github/Qrinee/HackHero)
+![WakaTime](https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/f303b010-b4ca-4f33-9aa7-0c268ea0fa3d.svg)
 
 Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do różnych technologii webowych. Poniżej znajdziesz kilka informacji o tym, czym się zajmuję.
 
