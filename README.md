@@ -1,6 +1,6 @@
 # Witaj na moim profilu! 👋
 
-<img src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/f303b010-b4ca-4f33-9aa7-0c268ea0fa3d.svg" width="100">
+<img src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/f303b010-b4ca-4f33-9aa7-0c268ea0fa3d.svg" width="300">
 
 
 
