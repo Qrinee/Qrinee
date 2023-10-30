@@ -2,7 +2,9 @@
 
 Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do różnych technologii webowych. Poniżej znajdziesz kilka informacji o tym, czym się zajmuję.
 
-<figure><embed src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/c4d52280-9176-441f-a565-ed6827f571b8.svg"></embed></figure>
+<figure>
+  <embed src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/c4d52280-9176-441f-a565-ed6827f571b8.svg"></embed>
+</figure>
 
 ## O Mnie
 
