@@ -3,8 +3,6 @@
 
 Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do różnych technologii webowych. Poniżej znajdziesz kilka informacji o tym, czym się zajmuję.
 
-## Kontakt
-kontakt@qrin.pl
 
 ## O Mnie
 
