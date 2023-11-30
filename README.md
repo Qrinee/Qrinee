@@ -11,6 +11,7 @@ Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do ró
 - 📚 Moje ulubione technologie to React, React Native, Node.js, i TypeScript.
 - 🌐 Lubię tworzyć responsywne i efektywne strony internetowe.
 - 📱 Tworzę również aplikacje mobilne z wykorzystaniem React Native.
+  
 
 ## Narzędzia i umiejętności
 
