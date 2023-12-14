@@ -20,8 +20,6 @@ Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do ró
 
 
 
-<img src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/ceb434ef-b209-43c1-a520-afa32008a076.svg" width="500">
-
 
 ## Zaufaj mi
 
