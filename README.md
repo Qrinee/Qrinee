@@ -12,8 +12,7 @@ Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do ró
 - 🌐 Tworzę responsywne i efektywne pod względem SEO strony internetowe.
 - 📱 Tworzę również aplikacje mobilne z wykorzystaniem React Native (expo).
 
-
-  <figure><embed src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/920cf35e-c431-4564-a353-5c87785a9c5a.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@018b491b-af69-4564-b971-724c8a44cc5a/6ae932ff-d32c-434d-ab3b-94b4b1b5d2b7.svg"></embed></figure>
 
 ## Narzędzia i umiejętności
 
