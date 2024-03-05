@@ -6,10 +6,10 @@ Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do ró
 
 ## O Mnie
 
-- 💻 Obecnie jestem uczniem technikum i uczę się różnych technologii webowych oraz tworzenia oprogramowania.
+- 💻 Obecnie pracuję jako freelancer.
 - 🚀 Interesują mnie głównie technologie webowe.
 - 📚 Moje ulubione technologie to React, Node.js, i TypeScript.
-- 🌐 Tworzyę responsywne i efektywne pod względem SEO strony internetowe.
+- 🌐 Tworzę responsywne i efektywne pod względem SEO strony internetowe.
 - 📱 Tworzę również aplikacje mobilne z wykorzystaniem React Native (expo).
   
 
@@ -23,7 +23,7 @@ Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do ró
 
 ## Zaufaj mi
 
-Jestem ambitny i zawsze staram się rozwijać moje umiejętności programistyczne. 
 Jeśli potrzebujesz sklepu, aplikacji internetowej lub landing page'a, pisz na maila: kontakt@qrin.pl
+Pełne wsparcie po zakończonej współpracy (konfiguracja vpsa, utrzymanie bazy danych + monitoring ruchu) 
 
 Dzięki za odwiedzenie mojego profilu! 😊
