@@ -1,7 +1,7 @@
 # Witaj na moim profilu! 👋
 
 
-Cześć, jestem Krystian, 17-letni pasjonat programowania z zamiłowaniem do różnych technologii webowych. Poniżej znajdziesz kilka informacji o tym, czym się zajmuję.
+Cześć, jestem Krystian, 18-letni pasjonat programowania z zamiłowaniem do różnych technologii webowych. Poniżej znajdziesz kilka informacji o tym, czym się zajmuję.
 
 
 ## O Mnie
